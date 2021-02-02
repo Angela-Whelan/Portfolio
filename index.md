@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Portfolio of Angela Whelan
 
 You can use the [editor on GitHub](https://github.com/Angela-Whelan/angelaw.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
