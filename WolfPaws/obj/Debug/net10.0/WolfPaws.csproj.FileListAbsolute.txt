@@ -1,0 +1,15 @@
+/workspaces/Portfolio/WolfPaws/bin/Debug/net10.0/WolfPaws
+/workspaces/Portfolio/WolfPaws/bin/Debug/net10.0/WolfPaws.deps.json
+/workspaces/Portfolio/WolfPaws/bin/Debug/net10.0/WolfPaws.runtimeconfig.json
+/workspaces/Portfolio/WolfPaws/bin/Debug/net10.0/WolfPaws.dll
+/workspaces/Portfolio/WolfPaws/bin/Debug/net10.0/WolfPaws.pdb
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/WolfPaws.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/WolfPaws.AssemblyInfoInputs.cache
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/WolfPaws.AssemblyInfo.cs
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/WolfPaws.csproj.CoreCompileInputs.cache
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/WolfPaws.sourcelink.json
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/WolfPaws.dll
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/refint/WolfPaws.dll
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/WolfPaws.pdb
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/WolfPaws.genruntimeconfig.cache
+/workspaces/Portfolio/WolfPaws/obj/Debug/net10.0/ref/WolfPaws.dll
